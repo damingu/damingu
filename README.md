@@ -27,5 +27,8 @@ Here are some ideas to get you started:
 
 #### If you are interested in me, please contact me! ✨
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daministrator1211@gmail.com)](mailto:daministrator1211@gmail.com)[![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ming_9da/)](https://www.instagram.com/ming_9da/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daministrator1211@gmail.com)](mailto:daministrator1211@gmail.com)
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ming_9da/)](https://www.instagram.com/ming_9da/)
+
 
