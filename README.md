@@ -1,6 +1,6 @@
 ### Hi there, I'm damin 👋
 
-I am a very interested person in coding. 👩🏻‍💻
+I am a very interested person in CS. 👩🏻‍💻
 
 I'll learn hard! 😃
 
