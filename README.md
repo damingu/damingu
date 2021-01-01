@@ -25,12 +25,12 @@
 <p align="center">
     <a href="https://www.instagram.com/ming_9da/">
         <img src="https://img.shields.io/badge/Instagram-e4405f?
-             style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ming_9da/"
+             style=flat&logo=Instagram&logoColor=white"
              style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
     <a href="mailto:daministrator1211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?
-              style=flat&logo=Gmail&logoColor=white&link=mailto:daministrator1211@gmail.com"
+              style=flat&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
 </p>
