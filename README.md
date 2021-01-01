@@ -1,4 +1,4 @@
-![header](README.assets/api)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=WElCOME👋&fontSize=45&animation=blinking)
 
 
 
@@ -34,11 +34,12 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
 </p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=damingu&show_icons=true&count_private=true&theme=nord)
 
 
 
-![Anurag's github stats](README.assets/api)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damingu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](README.assets/top-langs)](https://github.com/anuraghazra/github-readme-stats)
 
-![header](README.assets/api)
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=footer)
