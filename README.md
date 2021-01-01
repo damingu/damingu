@@ -1,34 +1,44 @@
-### Hi there, I'm damin 👋
-
-I'm a very interested person in CS. 👩🏻‍💻
-
-I'm learning hard. 🌱
+![header](README.assets/api)
 
 
 
-#### If you are interested in me, please contact me! ✨
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daministrator1211@gmail.com)](mailto:daministrator1211@gmail.com)
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ming_9da/)](https://www.instagram.com/ming_9da/)
-
-
-
-<!--
-**damingu/damingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=damingu)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <h3>
+        Hi there, I'm damin 👋
+    </h3>
+    <br>
+        I'm a very interested person in CS. 👩🏻‍💻
+    </br>
+    <br>
+		I'm learning hard. 🌱
+	</br>
+</div>
 
 
+
+
+
+<h4 align="center">
+    🍑 Contact me 🍑
+</h4>
+
+<p align="center">
+    <a href="https://www.instagram.com/ming_9da/">
+        <img src="https://img.shields.io/badge/Instagram-e4405f?
+             style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ming_9da/"
+             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+    <a href="mailto:daministrator1211@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?
+              style=flat&logo=Gmail&logoColor=white&link=mailto:daministrator1211@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+</p>
+
+
+
+![Anurag's github stats](README.assets/api)
+
+[![Top Langs](README.assets/top-langs)](https://github.com/anuraghazra/github-readme-stats)
+
+![header](README.assets/api)
