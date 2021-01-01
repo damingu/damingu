@@ -29,10 +29,10 @@
     <img src="https://camo.githubusercontent.com/1c1f9fb8a04868dfcda3297e042d07a0589eb4643f6472ccbefe336c19107b3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6431343833363f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6a6f6d796f756e67686565333240676d61696c2e636f6d" data-canonical-src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=daministrator1211@gmail.com" style="max-width:100%;">
     </a>
 </p>
-<p align=left>
+
+<p align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=damingu&amp;show_icons=true&amp;count_private=true&amp;theme=nord" alt="Anurag&#39;s github stats">
 </p>
-
 
 
 <p align=center>
