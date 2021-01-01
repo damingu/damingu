@@ -1,4 +1,4 @@
-<p><img src="https://capsule-render.vercel.app/api?type=wave&amp;color=timeAuto&amp;height=300&amp;section=header&amp;text=WElCOME👋&amp;fontSize=45&amp;animation=blinking" alt="header"></p>
+<p><img src="https://capsule-render.vercel.app/api?type=wave&amp;color=timeAuto&amp;height=200&amp;section=header&amp;text=WElCOME👋&amp;fontSize=25&amp;animation=blinking" alt="header"></p>
 
 
 
@@ -42,4 +42,4 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=200&section=footer)
